@@ -193,7 +193,7 @@ p.note { display: none; }
 <a href="20241120_029.JPG" target="_blank"><img src="20241120_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_030.JPG" target="_blank"><img src="20241120_030.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">機内食は3食弁当（食べかけですが・・・）！</span></h2>
+<h2><span class="yellow">機内食は3色弁当（食べかけですが・・・）！</span></h2>
 <a href="20241120_031.JPG" target="_blank"><img src="20241120_031.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">機内が寝静まったので、映画２本みて暇つぶし！</span></h2>
