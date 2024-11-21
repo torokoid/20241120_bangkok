@@ -146,6 +146,9 @@ p.note { display: none; }
 <a href="20241120_011.JPG" target="_blank"><img src="20241120_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_012.JPG" target="_blank"><img src="20241120_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_013.JPG" target="_blank"><img src="20241120_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241120_039.JPG" target="_blank"><img src="20241120_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241120_040.JPG" target="_blank"><img src="20241120_040.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20241120_014.JPG" target="_blank"><img src="20241120_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_015.JPG" target="_blank"><img src="20241120_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_016.JPG" target="_blank"><img src="20241120_016.JPG" alt="サンプル画像" width="900" /></a>
