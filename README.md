@@ -137,6 +137,8 @@ p.note { display: none; }
 <a href="20241120_002.JPG" target="_blank"><img src="20241120_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_003.JPG" target="_blank"><img src="20241120_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_004.JPG" target="_blank"><img src="20241120_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">バスの中から大仏様の後ろ姿に向かって、安全祈願！</span></h2>
 <a href="20241120_005.JPG" target="_blank"><img src="20241120_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_006.JPG" target="_blank"><img src="20241120_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_007.JPG" target="_blank"><img src="20241120_007.JPG" alt="サンプル画像" width="900" /></a>
@@ -272,7 +274,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2024/11/18 S.Hada</p>
+<p>Copyright 2024/11/21 @Bangkok S.Hada</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
