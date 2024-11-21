@@ -160,7 +160,7 @@ p.note { display: none; }
 <h2><span class="yellow">外国人向けのお土産で驚いたのは、やけに高級なけん玉！</span></h2>
 <a href="20241120_014.JPG" target="_blank"><img src="20241120_014.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">流石にこの値段だと、パッケージも高級感出てます！</span></h2>
+<h2><span class="yellow">流石にこの値段だと、パッケージも高級感出てます！<br>成田国際線出発ロビーでしか買えないとのこと</span></h2>
 <a href="20241120_015.JPG" target="_blank"><img src="20241120_015.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この手のキャラクター商品も大人気！</span></h2>
