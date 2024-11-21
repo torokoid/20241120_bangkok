@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241118_hagurosan/20241118_003.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241120_bangkok/20241120_028.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -146,44 +146,72 @@ p.note { display: none; }
 <a href="20241120_011.JPG" target="_blank"><img src="20241120_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_012.JPG" target="_blank"><img src="20241120_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_013.JPG" target="_blank"><img src="20241120_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">例によってここまでの経路をアマチュア無線の仕組み（APRS)で記録しました！</span></h2>
 <a href="20241120_039.JPG" target="_blank"><img src="20241120_039.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">離陸直前まで信号出したので、最後は滑走路の上！</span></h2>
 <a href="20241120_040.JPG" target="_blank"><img src="20241120_040.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">外国人向けのお土産で驚いたのは、やけに高級なけん玉！</span></h2>
 <a href="20241120_014.JPG" target="_blank"><img src="20241120_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">流石にこの値段だと、パッケージも高級感出てます！</span></h2>
 <a href="20241120_015.JPG" target="_blank"><img src="20241120_015.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この手のキャラクター商品も大人気！</span></h2>
 <a href="20241120_016.JPG" target="_blank"><img src="20241120_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_017.JPG" target="_blank"><img src="20241120_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_018.JPG" target="_blank"><img src="20241120_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_019.JPG" target="_blank"><img src="20241120_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">搭乗ゲート６７Aは、端っこ！</span></h2>
 <a href="20241120_020.JPG" target="_blank"><img src="20241120_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_021.JPG" target="_blank"><img src="20241120_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ブランドショップには立ち寄らずに素通り！</span></h2>
 <a href="20241120_022.JPG" target="_blank"><img src="20241120_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_023.JPG" target="_blank"><img src="20241120_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_024.JPG" target="_blank"><img src="20241120_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_025.JPG" target="_blank"><img src="20241120_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_026.JPG" target="_blank"><img src="20241120_026.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">かなり早く来たので、リクライニングソファー確保しました！</span></h2>
 <a href="20241120_027.JPG" target="_blank"><img src="20241120_027.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">待ち時間は暇なので、着陸する飛行機眺めます！</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpIjEcelXF4?si=v8YBAchy0N66-nxl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">バンコクまで飛ぶのはこの機体！</span></h2>
 <a href="20241120_028.JPG" target="_blank"><img src="20241120_028.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">雨の成田を飛び立ちます！</span></h2>
 <a href="20241120_029.JPG" target="_blank"><img src="20241120_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_030.JPG" target="_blank"><img src="20241120_030.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">機内食は3食弁当（食べかけですが・・・）！</span></h2>
 <a href="20241120_031.JPG" target="_blank"><img src="20241120_031.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">機内が寝静まったので、映画２本みて暇つぶし！</span></h2>
 <a href="20241120_032.JPG" target="_blank"><img src="20241120_032.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">台湾などの領空は避けた飛行経路ですね！</span></h2>
 <a href="20241120_033.JPG" target="_blank"><img src="20241120_033.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">バンコクに到着！</span></h2>
 <a href="20241120_034.JPG" target="_blank"><img src="20241120_034.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r8i8UPb8nIM?si=UX-mVI7LySAPfQfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">荷物受け取るまでの距離が遠いこと！</span></h2>
 <a href="20241120_035.JPG" target="_blank"><img src="20241120_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_036.JPG" target="_blank"><img src="20241120_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_037.JPG" target="_blank"><img src="20241120_037.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">スワンナプーム空港からバンコク市内まではタクシー！</span></h2>
 <a href="20241120_038.JPG" target="_blank"><img src="20241120_038.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">ここから５分ほど登って羽黒山神社に向かいます！</span></h2>
 
-<h2><span class="yellow">羽黒山神社に到着！<br>鳥居のクリックでGoogleMapsに飛びます</span></h2>
-
-
-<h2><span class="yellow">羽黒山と羽黒山神社の由来！</span></h2>
-
-
-<h2><span class="yellow">鳥居をくぐって、長い階段を登ります！</span></h2>
 
 
 
