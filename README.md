@@ -278,7 +278,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2024/11/21 @Bangkok S.Hada</p>
+<p>Copyright 2024/11/21 S.Hada @Bangkok</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
