@@ -169,8 +169,10 @@ p.note { display: none; }
 <a href="20241120_018.JPG" target="_blank"><img src="20241120_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241120_019.JPG" target="_blank"><img src="20241120_019.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">搭乗ゲート６７Aは、端っこ！</span></h2>
+<h2><span class="yellow">搭乗ゲートの場所一覧！</span></h2>
 <a href="20241120_020.JPG" target="_blank"><img src="20241120_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">今回使うゲート６７Aは、かなり端でした！</span></h2>
 <a href="20241120_021.JPG" target="_blank"><img src="20241120_021.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ブランドショップには立ち寄らずに素通り！</span></h2>
