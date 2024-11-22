@@ -123,9 +123,9 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/11/20 、タイに向けて出発 !!!</marquee></span></h1>
 
 <!--上段にパンクズリストを入れる時の例-->
-<!--
+
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/Mashiko_himawari_4/" target="_blank">2024年8月10日、益子ひまわり祭</a>><a href="https://torokoid.github.io/20240817_hagurosan/" target="_blank">2024年8月17日、羽黒山</a>><a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>><a>羽田さんの悠々自適な１カ月を根掘り葉掘りする会@ふくわうち</a></p></div>
+<p class="topicpath">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">2024年11月21日、バンコク市内をうろうろ</a><!--><a href="https://torokoid.github.io/20240930_hagurosan/" target="_blank">2024年9月30日、羽黒山</a>><a href="https://torokoid.github.io/20241003_cluster/" target="_blank">10月3日、Cluster Accelerator</a>><a>羽田さんの悠々自適な１カ月を根掘り葉掘りする会@ふくわうち</a>--></p></div>
 -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
